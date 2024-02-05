@@ -1,0 +1,25 @@
+#container {
+  display: grid;
+  grid-template-rows: 150px 1fr 275px;
+  margin: auto;
+  width: 1440px;
+  padding-bottom: 24px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+div {
+  font-family: "Markazi Text", serif;
+  font-weight: 500;
+  color: #333333;
+}
+
+p {
+  font-family: "Karla", sans-serif;
+  font-weight: 400;
+  color: #333333;
+}
